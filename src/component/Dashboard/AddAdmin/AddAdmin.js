@@ -2,7 +2,6 @@ import React, { useContext, useEffect } from "react";
 import { useForm } from "react-hook-form";
 import { useHistory } from "react-router-dom";
 import { AdminContext, AdminContextTemp, UserContext } from "../../../App";
-// ========================================================
 
 const AddAdmin = () => {
   // Context from app.js
